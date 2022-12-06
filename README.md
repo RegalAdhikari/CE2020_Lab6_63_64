@@ -1,5 +1,7 @@
 # Lab-6
 
+Implementation of graph using Adjacency List
+
 - [x] isEmpty()
 - [x] addVertex()
 - [x] addEdge()
