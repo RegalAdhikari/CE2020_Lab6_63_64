@@ -82,5 +82,9 @@ int main()
   cout << "Is 1 and 7 adjacent? " << graph.neighbor(1, 7) << endl;
   cout << "Is 4 and 5 adjacent? " << graph.neighbor(4, 5) << endl;
 
+  cout << "--------------------------------" << endl;
+  cout << "Check if the graph is directed" << endl;
+  cout << "Is the graph directed? " << graph.isDirected << endl;
+
   return 0;
 }
